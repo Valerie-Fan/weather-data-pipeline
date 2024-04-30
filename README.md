@@ -4,6 +4,8 @@ This repository aims to extract real-time data from Open Weather API, and upload
 
 ## Architecture
 [Architecture](https://github.com/Valerie-Fan/weather-data-pipeline/blob/main/Images/architecture.pdf)
+[2024-04-30.9.05.49.pdf](https://github.com/Valerie-Fan/weather-data-pipeline/files/15164545/2024-04-30.9.05.49.pdf)
+
 
 ## Final Result
 Result demeonstrates the real-time temperature in Taipei using ASW Quicksight.

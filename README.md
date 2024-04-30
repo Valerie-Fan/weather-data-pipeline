@@ -3,14 +3,10 @@
 This repository aims to extract real-time data from Open Weather API, and upload it to AWS S3 bucket. This project will be using Airflow for data orchestration, EC2 for running intances, Python and Pandas for data preprocessing and Amazon Wed Serveces for dara storage, crawling, and visualization. 
 
 ## Architecture
-![[Architecture]([Images/architecture.pdf](https://github.com/Valerie-Fan/weather-data-pipeline/blob/main/Images/architecture.pdf))](https://github.com/Valerie-Fan/weather-data-pipeline/blob/main/Images/architecture.pdf)
-
-
+![2024-04-30 9 05 49 (1)](https://github.com/Valerie-Fan/weather-data-pipeline/assets/164007751/a34251f1-972b-4285-95fe-1df272f4fedc)
 ## Final Result
 Result demeonstrates the real-time temperature in Taipei using ASW Quicksight.
-![Result]([Images/result.pdf](https://github.com/Valerie-Fan/weather-data-pipeline/blob/main/Images/result.pdf))
-
-
+![截圖 2024-04-30 下午8 55 06](https://github.com/Valerie-Fan/weather-data-pipeline/assets/164007751/8205c652-0bf0-45db-838b-8693a63a0624)
 ## Prerequisites 
 1. An AWS account.
 2. Open Weather account and API.

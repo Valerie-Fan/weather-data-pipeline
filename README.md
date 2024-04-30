@@ -3,8 +3,11 @@
 This repository aims to extract real-time data from Open Weather API, and upload it to AWS S3 bucket. This project will be using Airflow for data orchestration, EC2 for running intances, Python and Pandas for data preprocessing and Amazon Wed Serveces for dara storage, crawling, and visualization. 
 
 ## Architecture
+![Uploading 截圖 2024-04-30 下午9.05.49.png…]()
 
 ## Final Result
+Result demeonstrates the real-time temperature in Taipei using ASW Quicksight.
+![Uploading 截圖 2024-04-30 下午8.55.06.png…]()
 
 ## Prerequisites 
 1. An AWS account.

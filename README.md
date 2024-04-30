@@ -1,5 +1,5 @@
 # weather-data-pipeline
-## Introduntion
+## Introduction
 This repository aims to extract real-time data from Open Weather API, and upload it to AWS S3 bucket. This project will be using Airflow for data orchestration, EC2 for running intances, Python and Pandas for data preprocessing and Amazon Wed Serveces for dara storage, crawling, and visualization. 
 
 ## Architecture
